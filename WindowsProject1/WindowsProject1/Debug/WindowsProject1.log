@@ -1,0 +1,5 @@
+﻿  WindowsProject1.cpp
+C:\Users\tjapk\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(60,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\tjapk\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(335,38): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\tjapk\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(340,45): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+  WindowsProject1.vcxproj -> C:\Users\tjapk\source\repos\WindowsProject1\Debug\WindowsProject1.exe
